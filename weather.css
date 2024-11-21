@@ -50,7 +50,7 @@ body.dark {
   background-position: center;
   z-index: -1;
   transition: background-image 0.5s ease-in-out;
-  background-image: url(/images/clear.png);
+  background-image: url(/clear.png);
   opacity: .7;
 }
 
